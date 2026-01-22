@@ -38,6 +38,8 @@ Listi af einhverju.
 
 https://www.tskoli.is
 
+![Plaggat fyrir ától](https://tskoli.is/wp-content/uploads/2026/01/619784716_18550356451009010_8833108873031260878_n.jpg<img width="768" height="1024" alt="image" src="https://github.com/user-attachments/assets/a4f88ddb-2bf4-4e5e-8538-63486a14f1b0" />
+
 
 
 
