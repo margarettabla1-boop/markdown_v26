@@ -42,6 +42,6 @@ https://www.tskoli.is
 
 ---
 
-![Myndin sýnir húsnæði Tækniskólans á Háteigsvegi](./myndir/tskoli htv.jpg)
+![Myndin sýnir húsnæði Tækniskólans á Háteigsvegi](./myndir/scsh.png)
 
 
