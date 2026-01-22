@@ -11,7 +11,8 @@ _skáletrun_, **feitletrun**, _**skáletrun og feitletrun**_
 
 ---
 
-Listi af einhverju.
+
+Listi af <p style="color: red">einhhverju<p>
 * liður 1
   * undirliður 1
   * undirliður 2
@@ -45,6 +46,6 @@ https://www.tskoli.is
 
 ![Photo from phone](./myndir/IMG_4838.jpeg)
 
-
+<img src="./myndir/IMG_4838.jpeg" height=100 width=100>
 
 
