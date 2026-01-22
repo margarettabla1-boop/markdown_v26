@@ -4,7 +4,7 @@
 # stærsta fyrirsögnin
 ## Næststærsta fyrirsögnin
 ### minni fyrirsögn
-#### enn minni
+#### aðeins minni fyrirsögn
 ##### enn minni
 ###### minnsta
 
