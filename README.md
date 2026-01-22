@@ -1,4 +1,4 @@
-# markdown_v26
+![Myndin sýnir húsnæði Tækniskólans á Háteigsvegi](./myndir/tskoli htv.jpg)# markdown_v26
 þetta repo inniheldur markdown
 
 # stærsta fyrirsögnin
@@ -43,6 +43,9 @@ https://www.tskoli.is
 ---
 
 ![Myndin sýnir húsnæði Tækniskólans á Háteigsvegi](./myndir/scsh.png)
+
+![Photo from phone](./myndir/IMG_4838.jpeg)
+
 
 
 
