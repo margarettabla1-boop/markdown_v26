@@ -54,3 +54,6 @@ Dálkur 1 | Dálkur 2 | Dálkur 3
 10 | 20 | 40
 **50** | 20 | 60
 90 | 10 | 20
+
+
+sjfdskljdl
