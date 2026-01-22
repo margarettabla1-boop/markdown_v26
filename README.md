@@ -46,6 +46,11 @@ https://www.tskoli.is
 
 ![Photo from phone](./myndir/IMG_4838.jpeg)
 
-<img src="./myndir/IMG_4838.jpeg" height=100 width=100>
+<img src="./myndir/IMG_4838.jpeg" 
+height=50% width=50%>
 
-
+Dálkur 1 | Dálkur 2 | Dálkur 3
+--: | :-:| ---
+10 | 20 | 40
+**50** | 20 | 60
+90 | 10 | 20
